@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Arora Lab</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="arora research lab">
+  <meta name="keywords" content="Sanjeev Arora, Sanjeev Arora lab">
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="Arora research lab">
+
+  <!-- <link rel="icon" type="image/png" href="https://cs.princeton.edu/~jiatongy/images/favicon-32x32.png" sizes="64x32"> -->
+
+  <link href="https://fonts.googleapis.com/css?family=Barlow|Syne|Arimo|Open+Sans" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <!--<link rel="stylesheet" type="text/css" media="screen,print" href="css/style.css" />-->
+  <script>
+    // Immediately set the theme based on localStorage
+    document.documentElement.style.display = 'none'; // Hide the page content initially
+    document.addEventListener('DOMContentLoaded', () => {
+        const nightMode = localStorage.getItem('nightMode');
+        if (nightMode === 'enabled') {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.add('light-mode');
+        }
+        document.documentElement.style.display = ''; // Show the content after setting the theme
+    });
+</script>
+  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen" />
+  <link href="css/style.css" rel="stylesheet" media="screen" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="index.html">
+                    <img src="assets/images/icon.png" alt="Arora Research Group" class="navbar-brand" style="width: 100%; max-width: 165pt;" />
+                </a>
+            </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.html">about</a></li>
+            <li class="active"><a href="people.html">people</a></li>
+            <li><a href="#">publications</a></li>
+            <li><a href="#">join</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="jumbotron text-center">
+        <!-- <h1 style="font-size: 38px">About</h1>
+        <div class="container jumbo-special">
+          <p>We are especially interested in unsupervised learning, where the algorithm is given data that is unlabeled/unannotated, and the goal is to learn structure in the data.  Our group haas done work on language models (including topic models, text embeddings and language models), matrix and tensor factorization, sparse coding, Generative Adversarial Nets (GANs).</p>
+          <p></p>
+          </div> -->
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1>Lab Members</h1>
+            <br>
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="card">
+                  <img src="assets/images/profiles/sanjeev.png" alt="Sanjeev Arora" style="width:100%">
+                  <p class="name">Sanjeev Arora</p>
+                  <p class="title">Professor</p>
+                  <p><button>Contact</button></p>
+                </div>
+                </div>
+                <div class="col-sm-3">
+                  <div class="card">
+                    <img src="assets/images/profiles/sadhika.jpg" alt="Sadhika Malladi" style="width:100%">
+                    <p class="name">Sadhika Malladi</p>
+                    <p class="title">PhD</p>
+                    <p><button>Contact</button></p>
+                  </div>
+                </div>
+
+          </div>
+        </div>
+
+  
+</body>
+
+</html>

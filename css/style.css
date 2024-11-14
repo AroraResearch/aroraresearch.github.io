@@ -1,0 +1,48 @@
+body {
+    font: 1.5em/1.5;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+}
+
+
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: white;
+
+}
+.navbar-nav a {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url("../assets/images/ai-princeton_092623_0013.jpeg");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6;
+    height: 250px;
+}
+
+.jumbo-special p{
+    font: 1.5em/1.5;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.card{
+text-align: center;
+.name {
+    padding-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
+}
+
+.image {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
+}
