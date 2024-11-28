@@ -38,7 +38,7 @@ abhishek:
 haoyu:
   name: Haoyu Zhao
   title: PhD Student
-  photo: https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/default.png
+  photo: /people/haoyu_zhao.jpg
   website: https://hyzhao.me
   status: current
 
@@ -52,7 +52,7 @@ simran:
 yikai:
   name: Yikai Wu
   title: PhD Student
-  photo: https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/default.png
+  photo: /people/yikai_wu.jpg
   website: https://yikai-wu.github.io
   status: current
 
