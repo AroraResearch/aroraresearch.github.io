@@ -316,3 +316,31 @@ footer {
   padding-right: 20px;
   padding-left: 20px;
 }
+
+.video-container {
+  width: 80%;
+  /* Adjust the width as needed */
+  max-width: 1000px;
+  /* Optional: limit the max width */
+}
+
+.video-wrapper {
+  position: relative;
+  padding-top: 56.25%;
+  /* Aspect ratio: 16:9 (100% / 16 * 9) */
+  margin-bottom: 20px;
+  /* Space between videos */
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-wrapper:last-child {
+  margin-bottom: 0;
+}
