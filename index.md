@@ -19,7 +19,7 @@ Our research lab develops conceptual understanding of AI models, including train
 
 ## Selected Talks
 
-<div class="video-container">
+<!-- <div class="video-container">
         <div class="video-wrapper">
             <iframe 
                 src="https://www.youtube.com/embed/cntj4vN7mG0" 
@@ -36,7 +36,9 @@ Our research lab develops conceptual understanding of AI models, including train
                 allowfullscreen>
             </iframe>
         </div>
-    </div>
+    </div> -->
+
+{% include talks.html %}
 
 
 <!-- [Link to another page](./_pages/another-page.html). -->
