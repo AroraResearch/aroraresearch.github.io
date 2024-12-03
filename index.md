@@ -8,7 +8,7 @@ layout: default
 
 Our research lab develops conceptual understanding of AI models, including training techniques, datasets, model interpretability and model evaluations. Recent works involve new ways of training and evaluating models using "skills", which are themselves elicited from powerful AI models, and in turn can be used to generate very effective pipelines for improving AI models using synthetic training data. Many of our papers involve mathematical analysis as well as experiments.
 
-
+<hr>
 
 ## News
 
@@ -16,6 +16,8 @@ Our research lab develops conceptual understanding of AI models, including train
 &nbsp;
 
 [News archives](/pages/news_archives.html)
+
+<hr>
 
 ## Selected Talks
 
