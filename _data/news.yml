@@ -2,6 +2,7 @@ instruct-skillmix:
   type: paper
   paper_title: 'Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning'
   paper_link: https://arxiv.org/abs/2408.14774
+  venue: Compositional Learning Workshop at NeurIPS 2024 (Oral), FITML Workshop at NeurIPS 2024
   date: 09/2024
   status: new
 
@@ -25,7 +26,7 @@ math2:
   type: paper
   paper_title: AI-Assisted Generation of Difficult Math Questions
   paper_link: https://arxiv.org/abs/2407.21009
-  venue: NeurIPS 2024
+  venue: MATH-AI Workshop at NeurIPS 2024
   date: 09/2024
   status: new
 

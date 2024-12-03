@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/img/group-photo-2024.jpg" style="height: 100%; width:65%; display: block; margin-left: auto; margin-right: auto; padding: 0px 3px 0px px; background-color: #fefefe;"/>
+<img src="/assets/img/group-photo-2024.jpg" style="height: 100%; width:67%; display: block; margin-left: auto; margin-right: auto; padding: 0px 3px 0px px; background-color: #fefefe;"/>
 
 ## Research
 

@@ -20,7 +20,7 @@
                     {% if news.type == "paper" %}
                         <td><b>[{{ news.date }}]</b></td>
                         {% if news.venue %}
-                            <td> New paper <a href="{{ news.paper_link }}"><i>{{ news.paper_title }}</i></a> was accepted by {{ news.venue }}! </td>
+                            <td> New paper <a href="{{ news.paper_link }}"><i>{{ news.paper_title }}</i></a> was accepted to {{ news.venue }}! </td>
                         {% else %}
                             <td> Check out our new paper <a href="{{ news.paper_link }}"><i>{{ news.paper_title }}</i></a>!</td>
                         {% endif %}

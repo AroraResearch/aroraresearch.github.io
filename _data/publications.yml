@@ -37,7 +37,7 @@ chevalier2024language-models-as:
 shah2024ai-assisted-generation-of:
   title: "AI-Assisted Generation of Difficult Math Questions"
   link: "https://arxiv.org/abs/2407.21009"
-  venue: "NeurIPS 2024"
+  venue: "MATH-AI Workshop at NeurIPS 2024"
   authors: "Vedant Shah, Dingli Yu, Kaifeng Lyu, Simon Park, Nan Rosemary Ke, Michael Mozer, Yoshua Bengio, Sanjeev Arora, Anirudh Goyal"
   year: 2024
 
@@ -58,7 +58,7 @@ wu2024conceptmix-a-compositional:
 zhao2024can-models-learn:
   title: "Can Models Learn Skill Composition from Examples?"
   link: "https://arxiv.org/abs/2409.19808"
-  venue: "Preprint"
+  venue: "NeurIPS 2024"
   authors: "Haoyu Zhao, Simran Kaur, Dingli Yu, Anirudh Goyal, Sanjeev Arora"
   year: 2024
 
