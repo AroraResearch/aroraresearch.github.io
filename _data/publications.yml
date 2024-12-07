@@ -62,6 +62,27 @@ zhao2024can-models-learn:
   authors: "Haoyu Zhao, Simran Kaur, Dingli Yu, Anirudh Goyal, Sanjeev Arora"
   year: 2024
 
+razin2024unintentional-unalignment:
+  title: "Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization"
+  link: "https://arxiv.org/abs/2410.08847"
+  venue: "FITML Workshop at NeurIPS 2024, ATTRIB Workshop at NeurIPS 2024"
+  authors: "Noam Razin, Sadhika Malladi, Adithya Bhaskar, Danqi Chen, Sanjeev Arora, Boris Hanin"
+  year: 2024
+
+panigrahi2024progressive-distillation-induces:
+  title: "Progressive Distillation Induces an Implicit Curriculum"
+  link: "https://arxiv.org/abs/2410.05464"
+  venue: "M3L Workshop at NeurIPS 2024, Theoretical Foundations of Foundation Models Workshop at ICML 2024, Mechanistic Interpretability (MI) Workshop at ICML 2024"
+  authors: "Abhishek Panigrahi, Bingbin Liu, Sadhika Malladi, Andrej Risteski, Surbhi Goel"
+  year: 2024
+
+chen2024preference-learning-algorithms:
+  title: "Preference Learning Algorithms Do Not Learn Preference Rankings"
+  link: "https://arxiv.org/abs/2405.19534"
+  venue: "NeurIPS 2024"
+  authors: "Angelica Chen, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho"
+  year: 2024
+
 malladi2023fine-tuning-language-models:
   title: "Fine-Tuning Language Models with Just Forward Passes"
   link: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html"
@@ -95,6 +116,13 @@ yu2023skill-mix-a-flexible:
   link: "https://arxiv.org/abs/2310.17567"
   venue: "ICLR 2024"
   authors: "Dingli Yu, Simran Kaur, Arushi Gupta, Jonah Brown-Cohen, Anirudh Goyal, Sanjeev Arora"
+  year: 2023
+
+wang2023the-marginal-value:
+  title: "The Marginal Value of Momentum for Small Learning Rate SGD"
+  link: "https://arxiv.org/abs/2307.15196"
+  venue: "ICLR 2024"
+  authors: "Runzhe Wang, Sadhika Malladi, Tianhao Wang, Kaifeng Lyu, Zhiyuan Li"
   year: 2023
 
 gu2023why-(and-when):
