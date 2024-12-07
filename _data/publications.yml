@@ -1,4 +1,4 @@
-
+######################### 2024 #########################
 xia2024less-selecting-influential:
   title: "Less: Selecting influential data for targeted instruction tuning"
   link: "https://arxiv.org/abs/2402.04333"
@@ -90,6 +90,9 @@ wei2024provable-unlearning-in:
   authors: "Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal"
   year: 2024
 
+
+######################### 2023 #########################
+
 malladi2023fine-tuning-language-models:
   title: "Fine-Tuning Language Models with Just Forward Passes"
   link: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html"
@@ -153,6 +156,9 @@ shah2023unlearning-via-sparse:
   authors: "Vedant Shah, Frederik Träuble, Ashish Malik, Hugo Larochelle, Michael Mozer, Sanjeev Arora, Yoshua Bengio, Anirudh Goyal"
   year: 2023
 
+
+######################### 2022 #########################
+
 saunshi2022understanding-contrastive-learning:
   title: "Understanding Contrastive Learning Requires Incorporating Inductive Biases"
   link: "https://proceedings.mlr.press/v162/saunshi22a.html"
@@ -201,6 +207,9 @@ gupta2022new-definitions-and:
   venue: "NeurIPS 2022"
   authors: "Arushi Gupta, Nikunj Saunshi, Dingli Yu, Kaifeng Lyu, Sanjeev Arora"
   year: 2022
+
+
+######################### 2021 #########################
 
 huang2021evaluating-gradient-inversion:
   title: "Evaluating Gradient Inversion Attacks and Defenses in Federated Learning"
@@ -257,6 +266,9 @@ arora2021technical-perspective-why:
   venue: "Communications of the ACM"
   authors: "Sanjeev Arora"
   year: 2021
+
+
+######################### 2020 #########################
 
 huang2020instahide-instance-hiding-schemes:
   title: "InstaHide: Instance-hiding Schemes for Private Distributed Learning"
@@ -334,6 +346,9 @@ arora2020the-quest-for:
   venue: "40th IARCS Annual Conference on Foundations of Software Technology"
   authors: "Sanjeev Arora"
   year: 2020
+
+
+######################### 2019 #########################
 
 arora2019fine-grained-analysis-of:
   title: "Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks"
@@ -417,7 +432,10 @@ arora2019dingli-yu:
   link: "https://arxiv.org/abs/1910.01663"
   venue: "ICLR 2020 (spotlight)"
   authors: "Sanjeev Arora, Simon S. Du, Zhiyuan Li, Ruslan Salakhutdinov, Ruosong Wang, Dingli Yu"
-  year: 2020
+  year: 2019
+
+
+######################### 2018 #########################
 
 arora2018stronger-generalization-bounds:
   title: "Stronger Generalization Bounds for Deep Nets via a Compression Approach"
@@ -524,6 +542,9 @@ kalai2018icm-2018-lecture:
   authors: "Gil Kalai, Sanjeev Arora, Catherine Goldstein, Sylvia Serfaty, Gregory F Lawler"
   year: 2018
 
+
+######################### 2017 #########################
+
 arora2017a-simple-but:
   title: "A Simple but Tough-to-Beat Baseline for Sentence Embeddings"
   link: "https://openreview.net/forum?id=SyK00v5xx"
@@ -594,6 +615,9 @@ khodak2017extending-and-improving:
   authors: "Mikhail Khodak, Andrej Risteski, Christiane Fellbaum, Sanjeev Arora"
   year: 2017
 
+
+######################### 2016 #########################
+
 arora2016a-latent-variable:
   title: "A Latent Variable Model Approach to PMI-based Word Embeddings"
   link: "https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00106/43373"
@@ -621,6 +645,9 @@ vodrahalli2016mapping-between-natural:
   venue: "Preprint"
   authors: "Kiran Vodrahalli, Po-Hsuan Chen, Yingyu Liang, Janice Chen, Esther Yong, Christopher Honey, Peter Ramadge, Ken Norman, Sanjeev Arora"
   year: 2016
+
+
+######################### 2015 #########################
 
 arora2015subexponential-algorithms-for:
   title: "Subexponential algorithms for unique games and related problems"
