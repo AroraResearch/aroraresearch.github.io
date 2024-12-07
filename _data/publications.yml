@@ -83,6 +83,13 @@ chen2024preference-learning-algorithms:
   authors: "Angelica Chen, Sadhika Malladi, Lily H. Zhang, Xinyi Chen, Qiuyi Zhang, Rajesh Ranganath, Kyunghyun Cho"
   year: 2024
 
+wei2024provable-unlearning-in:
+  title: "Provable Unlearning in Topic Modeling and Downstream Tasks"
+  link: "https://arxiv.org/abs/2411.12600"
+  venue: "Preprint"
+  authors: "Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal"
+  year: 2024
+
 malladi2023fine-tuning-language-models:
   title: "Fine-Tuning Language Models with Just Forward Passes"
   link: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a627810151be4d13f907ac898ff7e948-Abstract-Conference.html"
