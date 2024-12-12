@@ -1,3 +1,9 @@
+sadhika_siebel_scholar:
+  type: award
+  content: Congrats to Sadhika Malladi on being named 2025 Siebel Scholar!
+  date: 09/2024
+  status: new
+
 instruct-skillmix:
   type: paper
   paper_title: 'Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning'
